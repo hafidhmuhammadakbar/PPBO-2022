@@ -40,5 +40,5 @@ public class PPBO_04_Latihan1 {
 /*  JAWAB :
  - Output yang dihasilkan adalah : 5 / 0 = Infinity
  - Pada teori matematika, kita tidak bisa membagi sebuah bilangan dengan 0, tetapi pada bahasa java pembagian 
-    dengan 0 pada tipe data double akan menghasilkan hasil "infinity"
+    dengan 0 pada tipe data double akan menghasilkan hasil "infinity" 
 */

@@ -36,6 +36,6 @@ public class PPBO_04_Latihan2 {
     => Pada Latihan2, jika kita menginputkan huruf pada program, maka exceptio yang terjadi akan ditangani
         oleh kode "catch(..)" dan akan diminta inputan kembali ke program "try" sehingga program tetap dapat
         berjalan. Sedangkan pada program Latihan1, jika kita menginputkan huruf maka akan terjadi input mismatch 
-        dan program akan berhenti.
+        dan program akan berhenti. 
 */
 

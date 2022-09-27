@@ -41,5 +41,5 @@ public class PPBO_04_Latihan3 {
 // tambahan untuk menangani pembagian dengan 0 pada source code tersebut!
 /*
     Menambahkan catch ArithmeticException dan mengganti tipe data dari hasil ke int
-    karena tipe data double bisa melakukan pembagian dengan 0
+    karena tipe data double bisa melakukan pembagian dengan 0 
 */
