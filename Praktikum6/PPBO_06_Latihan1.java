@@ -8,7 +8,7 @@ public class PPBO_06_Latihan1 {
         public  String nim;
         public static int index = 0;
         public Mahasiswa(){
-            nim = String.format("%04d", index);
+            nim = String.format("%05d", index);
             index++;
         }
     }
